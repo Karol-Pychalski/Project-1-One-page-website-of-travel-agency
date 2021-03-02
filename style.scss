@@ -1,0 +1,33 @@
+/* Global*/
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+$color-main: #1e3799;
+
+body{
+    margin: 0;
+    text-align: center;
+    background: #fff;
+    color: #3d3d3d;
+    font-size: 16px;
+    line-height= 1.7;
+}
+
+section{
+    padding: 108px 0;
+}
+    
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Splash*/
+
+.splash{
+    height: 100vh;
+    position: relative;
+}
+
